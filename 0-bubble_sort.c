@@ -3,7 +3,7 @@
 #include "sort.h"
 /**
  * bubble_sort - A function that sorts an array of integers
- * 
+ *
  * @array: A pointer to an array of integers
  * @size: The size of the array
  * Return: Void return type
